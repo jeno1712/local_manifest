@@ -2,9 +2,8 @@
 <manifest>
 
  <!-- Trees -->
- <project path="device/asus/X01AD" name="dotOS-Devices/device_asus_X01AD.git" remote="github" revision="dot11" />
- <project path="vendor/asus" name="dotOS-Devices/vendor_asus_X01AD.git" remote="github" revision="dot11" />
+ <project path="device/asus/X01AD" name="AP-XD/device_asus_X01AD-1.git" remote="github" revision="Arrow-12.0" />
+ <project path="vendor/asus/X01AD" name="AP-XD/vendor_asus_X01AD.git" remote="github" revision="R-latest" />
  <project path="kernel/asus/X01AD" name="LineageOS/android_kernel_asus_X01AD.git" remote="github" revision="lineage-18.1" />
-
 
 </manifest>
