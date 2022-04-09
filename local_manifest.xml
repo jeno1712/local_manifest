@@ -4,6 +4,6 @@
  <!-- Trees -->
  <project path="device/asus/X01AD" name="jeno1712/device_asus_X01AD-1.git" remote="github" revision="Arrow-12.0" />
  <project path="vendor/asus/X01AD" name="AP-XD/vendor_asus_X01AD.git" remote="github" revision="R-latest" />
- <project path="kernel/asus/X01AD" name="LineageOS/android_kernel_asus_X01AD.git" remote="github" revision="lineage-18.1" />
+ <project path="kernel/asus/X01AD" name="AP-XD/kernel_asus_X01AD-2.git" remote="github" revision="lineage-19.0" />
 
 </manifest>
