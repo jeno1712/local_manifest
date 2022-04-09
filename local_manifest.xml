@@ -5,5 +5,7 @@
  <project path="device/asus/X01AD" name="jeno1712/device_asus_X01AD-1.git" remote="github" revision="Arrow-12.0" />
  <project path="vendor/asus/X01AD" name="AP-XD/vendor_asus_X01AD.git" remote="github" revision="R-latest" />
  <project path="kernel/asus/X01AD" name="AP-XD/kernel_asus_X01AD-2.git" remote="github" revision="lineage-19.0" />
-
+ <project path="hardware/qcom-caf/msm8996/display" name="LineageOS/android_hardware_qcom_display.git" remote="github" revision="lineage-19.0-caf-msm8996" />
+ <project path="hardware/qcom-caf/msm8996/audio" name="LineageOS/android_hardware_qcom_audio.git" remote="github" revision="lineage-19.0-caf-msm8996" />
+ <project path="hardware/qcom-caf/msm8996/media" name="LineageOS/android_hardware_qcom_media.git" remote="github" revision="lineage-19.0-caf-msm8996" />
 </manifest>
